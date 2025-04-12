@@ -1,0 +1,44 @@
+[
+  {
+    "id": 8,
+    "name": "大麥克",
+    "price": 100,
+    "imageUrl": "/uploads/1744480246453.jpg"
+  },
+  {
+    "id": 9,
+    "name": "台灣獼猴",
+    "price": 7000,
+    "imageUrl": "/uploads/1744480246529.jpg"
+  },
+  {
+    "id": 10,
+    "name": "梅花鹿",
+    "price": 5000,
+    "imageUrl": "/uploads/1744480246632.jpg"
+  },
+  {
+    "id": 11,
+    "name": "一千塊",
+    "price": 1999,
+    "imageUrl": "/uploads/1744480246696.jpg"
+  },
+  {
+    "id": 12,
+    "name": "邊牧",
+    "price": 10000,
+    "imageUrl": "/uploads/1744480246773.jpg"
+  },
+  {
+    "id": 13,
+    "name": "貓",
+    "price": 6500,
+    "imageUrl": "/uploads/1744480246860.jpg"
+  },
+  {
+    "id": 14,
+    "name": "松鼠",
+    "price": 500,
+    "imageUrl": "/uploads/1744480246943.jpg"
+  }
+]
